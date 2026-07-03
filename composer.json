@@ -59,7 +59,7 @@
         "laminas/laminas-stdlib": "^2.7.8 || ^3.16.1",
         "laminas/laminas-validator": "^2.15.0",
         "laminas/laminas-view": "^2.14",
-        "webmozart/assert": "^1.10"
+        "webmozart/assert": "^1.10 || ^2.0"
     },
     "require-dev": {
         "ext-sqlite3": "*",
